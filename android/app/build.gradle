@@ -19,7 +19,7 @@ android {
 	}
 
 	defaultConfig {
-		applicationId = "org.vita3k.emulator"
+		applicationId = "org.vita3k.nce"
 		minSdk = 28
 		targetSdk = 35
 		versionCode = 21
